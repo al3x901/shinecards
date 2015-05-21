@@ -1,0 +1,830 @@
+<!--Difficulties MUST written as follows from Question.java constants:
+    low, easy, novice, etc. = 3279;
+    medium, intermediate, etc. = 6333;
+    high, expert, etc. = 4444;
+-->
+<Quiz>
+    <Item>
+        <Category>Calc 2</Category>
+        <Difficulty>6333</Difficulty>
+        <Question>Derivative of sin(x)</Question>
+        <Answer>cos(x)</Answer>
+    </Item>
+    <Item>
+        <Category>Calc 2</Category>
+        <Difficulty>3279</Difficulty>
+        <Question>Derivative of cos(x)</Question>
+        <Answer>-sin(x)</Answer>
+    </Item>
+    <Item>
+        <Category>Calc 2</Category>
+        <Difficulty>3279</Difficulty>
+        <Question>Derivative of tan(x)</Question>
+        <Answer>sec(^2)(x)</Answer>
+    </Item>
+    <Item>
+        <Category>Calc 2</Category>
+        <Difficulty>3279</Difficulty>
+        <Question>Antiderivative of cos(x)</Question>
+        <Answer>sin(x)</Answer>
+    </Item>
+    <Item>
+        <Category>Calc 2</Category>
+        <Difficulty>3279</Difficulty>
+        <Question>Antiderivative of -sin(x)</Question>
+        <Answer>cos(x)</Answer>
+    </Item>
+    <Item>
+        <Category>Calc 2</Category>
+        <Difficulty>3279</Difficulty>
+        <Question>Antiderivative of sec(^2)(x)</Question>
+        <Answer>tan(x)</Answer>
+    </Item>
+    <Item>
+        <Category>Calc 2</Category>
+        <Difficulty>6333</Difficulty>
+        <Question>Product Rule</Question>
+        <Answer>(f*g)' = (f'*g) + (f*g')</Answer>
+    </Item>
+
+    <Item>
+        <Category>CSC 365</Category>
+        <Difficulty>3279</Difficulty>
+        <Question>713+539</Question>
+        <Answer>243857</Answer>
+    </Item>
+
+    <Item>
+        <Category>CSC 380</Category>
+        <Difficulty>3279</Difficulty>
+        <Question>713+539</Question>
+        <Answer>243857</Answer>
+    </Item>
+
+    <!--Astronomy 100 QUIZZES-->
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Theodore Sturgeon's 3 perspectives</heading>
+        <Question>What are Theodore Sturgeon's 3 perspectives?</Question>
+        <Answer>Biological Perspective, Historical Perspective, Cosmic Perspective</Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Theodore Sturgeon's 3 perspectives</heading>
+        <Question>Biological Perspective</Question>
+        <Answer>Ponders key events in one's own lifetime. Instinctual.</Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Theodore Sturgeon's 3 perspectives</heading>
+        <Question>Historical Perspective</Question>
+        <Answer>Ponders key events throughout recorded human history. Learned.</Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Theodore Sturgeon's 3 perspectives</heading>
+        <Question>Cosmic Perspective</Question>
+        <Answer>Ponders key events throughout all space &amp; time</Answer>
+    </Item>
+
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>3 Scales of Existence</heading>
+        <Question>What are the 3 Scales of Existence?</Question>
+        <Answer>Star System, Galaxy, Universe</Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Theodore Sturgeon's 3 perspectives</heading>
+        <Question>Star System</Question>
+        <Answer>
+            Example: our solar system has 1 star (the sun),
+            size = approx. 12 light-hours,
+            age approx. 4.5 billion years
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Theodore Sturgeon's 3 perspectives</heading>
+        <Question>Galaxy</Question>
+        <Answer>
+            Example: our galaxy has 100 billion stars in a whirlpool,
+            size = approx. 100,000 light-years,
+            age approx. 13 billion years.</Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Time Units</heading>
+        <Question>Universe (3SE)</Question>
+        <Answer>
+            All of space (billions of galaxies).
+            Visible size is more than 28 billion
+            light-years. Age = approx. 14 billion years.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Time Units</heading>
+        <Question>Which time units are based on precise measurement of the sky?</Question>
+        <Answer>
+            Day and year
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Time Units</heading>
+        <Question>How long is a year measured by th orbit of the Earth?</Question>
+        <Answer>
+            365.25 days
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Time Units</heading>
+        <Question>How long is one sidereal day?</Question>
+        <Answer>
+            23 hours, 56 minutes
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Time Units</heading>
+        <Question>What does sidereal mean?</Question>
+        <Answer>
+            With respect to the stars.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Earth</heading>
+        <Question>Why are there seasons on Earth?</Question>
+        <Answer>
+            Because of  its tilt of 23.5 degrees spin axis and its elliptical orbit around the sun with.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Celestial Sphere</heading>
+        <Question>What is the Ecliptic?</Question>
+        <Answer>
+            The apparent path of the sun over a year.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Celestial Sphere</heading>
+        <Question>What is the plane of the Earth's orbit?</Question>
+        <Answer>
+            The Ecliptic of the Celestial Sphere.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Celestial Sphere</heading>
+        <Question>Where do eclipses occur?</Question>
+        <Answer>
+            In the ecliptic plane when the sun, moon, and Earth align.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Celestial Sphere</heading>
+        <Question>What units do you use to measure positions on the celestial sphere?</Question>
+        <Answer>
+            Angels: degree, Arc-minute ('), Arc-Second (")
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Celestial Sphere</heading>
+        <Question>How many arc-minutes is 1 degree?</Question>
+        <Answer>
+            1 degree equals 60 arc-minutes (60')
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Celestial Sphere</heading>
+        <Question>How many arc-seconds are in one arc-minute?</Question>
+        <Answer>
+            1 arc-minute (60') equals 60 arc-seconds (60")
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Phases of the Moon</heading>
+        <Question>What are the phases of the moon?</Question>
+        <Answer>
+            New moon, waxing (growing) crescent, first quarter, waxing gibbous,
+            full moon, waning (decrease in visible surface area) gibbous, third quarter,
+            waning crescent
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Moon</heading>
+        <Question>True or False:
+            The moon always has same side facing the Earth</Question>
+        <Answer>
+            True:
+            The moon always has the same side facing the Earth.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Moon</heading>
+        <Question>Define the "Spin Period" of the moon.</Question>
+        <Answer>
+            The moon's orbit period in respect to the stars.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Eclipses</heading>
+        <Question>What are the two types of eclipses?</Question>
+        <Answer>
+            Lunar Eclipse, Solar Eclipse
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Eclipses</heading>
+        <Question>How do Lunar Eclipses happen?</Question>
+        <Answer>
+            Moon passes through Earth's Shadow.
+            It lasts 2-4 hours. Half of Earth appears to be night time.
+            Only occurs during full moon.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Eclipses</heading>
+        <Question>How do Solar Eclipses happen?</Question>
+        <Answer>
+            Moon passes between Sun and moon. It lasts 2-4 minutes.
+            Seen by 1-2% of Earth. Moon is closer to the sun.
+            Moon and sun have same Angular diameter: 1/2 degree.
+            Can only occur during new moon.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Eclipses</heading>
+        <Question>How do we prove Earth is spherical?</Question>
+        <Answer>
+            By observing multiple lunar eclipses.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Aristotle (384-322 B.C.)</heading>
+        <Question>What did Aristotle say about the universe? Was it wrong or right?</Question>
+        <Answer>
+            There are 2 Realms in the universe:
+            *Earth: things stand still, things change, chaos occurs.
+            *Heavens: perpetual motion, things don't change, clockwork.
+            *This was proven wrong.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Aristarchus (310-230 B.C.)</heading>
+        <Question>How much larger is the Earth than the moon in true size?</Question>
+        <Answer>
+            Earth is 4x larger than moon in true size.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Aristarchus (310-230 B.C.)</heading>
+        <Question>
+            True or False:
+            The moon and sun have same apparent size.
+        </Question>
+        <Answer>
+            True:
+            The moon and sun have same apparent size of 1/2 degree.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Aristarchus (310-230 B.C.)</heading>
+        <Question>
+            How much further is the sun than the moon from the Earth?
+        </Question>
+        <Answer>
+            The sun is 400x further from the Earth than the moon.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Aristarchus (310-230 B.C.)</heading>
+        <Question>
+            How much larger is the sun than the Earth in true size?
+        </Question>
+        <Answer>
+            The sun is 100x larger than the Earth in true size.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>6333</Difficulty>
+        <heading>Small Angle Equation</heading>
+        <Question>
+            What is the Small Angle Equation?
+        </Question>
+        <Answer>
+            W = θd / 57.3
+
+
+            W: true diameter (true size)
+            θ: Angular diameter (degree) or apparent size
+            d: distance of object
+            57.3: conversion constant
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Small Angle Equation</heading>
+        <Question>
+            What are the proportions of the small angle equation factors.
+        </Question>
+        <Answer>
+            *If θ same, w &amp; d are directly proportional w&#8593;d&#8593;.
+            *If d same, θ &amp; w are directly proportional θ&#8593;w&#8593;.
+            *If w same, d &amp; θ are inversely proportional d&#8593;θ&#8595;.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>6333</Difficulty>
+        <heading>Scientific method</heading>
+        <Question>
+            What are the steps of the scientific method?
+        </Question>
+        <Answer>
+            1. Choose a topic to study
+            2. Collect all relevant data &amp; facts (measurements &amp; observations)
+            3. Formulate a theory to explain the data
+            4. Test theory's predictions against new observations
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Scientific method</heading>
+        <Question>
+            What should a proper theory do?
+        </Question>
+        <Answer>
+            . Explain all relevant data
+            . make testable predictions
+            . not invoke the supernatural
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Scientific method</heading>
+        <Question>
+            Can a theory be proven a hundred percent right? Why or why not?
+        </Question>
+        <Answer>
+            No because in order for a theory to be proven 100% correct, it would have to be tested in every possible condition.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Solar System Orbits</heading>
+        <Question>
+            Which orbital model is correct, Copernicus or Ptolemy?
+        </Question>
+        <Answer>
+            Copernicus's orbital model is correct because it has the sun, not Earth, at the center with the planets orbiting it.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Solar System Orbits</heading>
+        <Question>
+            In which planetary model is Venus and Mercury tied to the Sun's line-of-sight?
+        </Question>
+        <Answer>
+            In Ptolemy's model.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Solar System Orbits</heading>
+        <Question>
+            "Geocentric" is another name for which plantery system (orbital) model?
+        </Question>
+        <Answer>
+            Geocentric is another name for Ptolemy's Earth-centered planetary system based off of Aristotle's thoughts on the universe.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>Astronomy 100</Category>
+        <Difficulty>3297</Difficulty>
+        <heading>Solar System Orbits</heading>
+        <Question>
+            What fact proved that Ptolemy's planetary system orbital model does not work?
+        </Question>
+        <Answer>
+            The phases of Venus show that Ptolemy's model does not work.
+
+            Ptolemy's model predicted a partial set of vissible phases for Venus. We now know this is false.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>
+            Astronomy 100
+        </Category>
+        <Difficulty>
+            3297
+        </Difficulty>
+        <heading>
+            Solar System Orbits
+        </heading>
+        <Question>
+            In which planetary system orbital model(s) are stars on a fixed rotating sphere beyond the planets?
+        </Question>
+        <Answer>
+            In both Ptolemy's and Copernicus's model.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>
+            Astronomy 100
+        </Category>
+        <Difficulty>
+            3297
+        </Difficulty>
+        <heading>
+            Solar System Orbits
+        </heading>
+        <Question>
+            In which planertary system orbital model are the planets rotating around the Sun?
+        </Question>
+        <Answer>
+            In Copernicus's model.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>
+            Astronomy 100
+        </Category>
+        <Difficulty>
+            3297
+        </Difficulty>
+        <heading>
+            Solar System Orbits
+        </heading>
+        <Question>
+            Which planertary system orbital model predicts a full set of visible phases for Venus?
+        </Question>
+        <Answer>
+            Copernicus's model.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>
+            Astronomy 100
+        </Category>
+        <Difficulty>
+            3297
+        </Difficulty>
+        <heading>
+            Celestial Motions
+        </heading>
+        <Question>
+            Why do star maps have east and west reversed?
+        </Question>
+        <Answer>
+            Because we look up at the sky.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>
+            Astronomy 100
+        </Category>
+        <Difficulty>
+            3297
+        </Difficulty>
+        <heading>
+            Celestial Motions
+        </heading>
+        <Question>
+            In which direction do the sun and moon move across the sky each month?
+        </Question>
+        <Answer>
+            The sun and the moon move west to east across the sky each month.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>
+            Astronomy 100
+        </Category>
+        <Difficulty>
+            3297
+        </Difficulty>
+        <heading>
+            Celestial Motions
+        </heading>
+        <Question>
+            Which planets move in "back and forth" motion centered on the sun?
+        </Question>
+        <Answer>
+            Mercury and Venus.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>
+            Astronomy 100
+        </Category>
+        <Difficulty>
+            3297
+        </Difficulty>
+        <heading>
+            Celestial Motions
+        </heading>
+        <Question>
+            Mercury moves west to east across the sky? How often does it do so?
+        </Question>
+        <Answer>
+            Every two years.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>
+            Astronomy 100
+        </Category>
+        <Difficulty>
+            6333
+        </Difficulty>
+        <heading>
+            Celestial Motions
+        </heading>
+        <Question>
+            How often and in which direction do Jupiter and Saturn move across the sky?
+        </Question>
+        <Answer>
+            Jupiter moves west to east across the sky every 12 years.
+            Saturn moves west to east acorss the sky every 30 years.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>
+            Astronomy 100
+        </Category>
+        <Difficulty>
+            6333
+        </Difficulty>
+        <heading>
+            Celestial Motions
+        </heading>
+        <Question>
+            Which planets show occasional illusions of retrograde loops in their movements across the sky?
+        </Question>
+        <Answer>
+            Jupiter, Mars, and Saturn.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>
+            Astronomy 100
+        </Category>
+        <Difficulty>
+            3297
+        </Difficulty>
+        <heading>
+            Galileo
+        </heading>
+        <Question>
+            True or False: Galileo invented the telescope.
+        </Question>
+        <Answer>
+            False!
+            Galileo did not event the telescope.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>
+            Astronomy 100
+        </Category>
+        <Difficulty>
+            3297
+        </Difficulty>
+        <heading>
+            Galileo
+        </heading>
+        <Question>
+            What did Galileo do in 1609 to revolutionize astronomy?
+        </Question>
+        <Answer>
+            He built and used a telescope to observe the sky in 1609.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>
+            Astronomy 100
+        </Category>
+        <Difficulty>
+            4444
+        </Difficulty>
+        <heading>
+            Galileo
+        </heading>
+        <Question>
+            What did Galileo observe with his telescope?
+        </Question>
+        <Answer>
+            . Sunspots come and go
+            . Mountains on moons
+            . The pahses of Venus
+            . 4 million faint stars
+            . 4 moons orbiting Jupiter
+        </Answer>
+    </Item>
+    <Item>
+        <Category>
+            Astronomy 100
+        </Category>
+        <Difficulty>
+            3297
+        </Difficulty>
+        <heading>
+            Tyko Brahe (1546 - 1601)
+        </heading>
+        <Question>
+            What two facts were Tyko Brahe most well known for?
+        </Question>
+        <Answer>
+            Tyko Brahe had the last, best naked-eye starmaps of his time.
+            He also had the best planetary position tables.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>
+            Astronomy 100
+        </Category>
+        <Difficulty>
+            3297
+        </Difficulty>
+        <heading>
+            Tyko Brahe (1546 - 1601)
+        </heading>
+        <Question>
+            Who did Tyko Brahe hire?
+        </Question>
+        <Answer>
+            Tyko Brahe hired J. Kepler, a mathematician.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>
+            Astronomy 100
+        </Category>
+        <Difficulty>
+            4444
+        </Difficulty>
+        <heading>
+            J. Kepler (1571 - 1630)
+        </heading>
+        <Question>
+            What are Kepler's 3 laws of planetary motion?
+        </Question>
+        <Answer>
+            K1. The planets move in ellipses with the sun at one focus.
+
+            K2. Equal Area - Equal Time:
+            . Equal area is swept out in equal time by a line connecting a planet to the sun.
+
+            K3. The bigger the orbit size the larger the period. P^2 : A^3 for all planets:
+            . The square of the orbital period (P) and the cube of the semi-major axis (A) are in a fixed ratio for all planets
+        </Answer>
+    </Item>
+    <Item>
+        <Category>
+            Astronomy 100
+        </Category>
+        <Difficulty>
+            3297
+        </Difficulty>
+        <heading>
+            J. Kepler (1571 - 1630)
+        </heading>
+        <Question>
+            What is Kepler's 1st law (K1) of planetary motion?
+        </Question>
+        <Answer>
+            The planets move in ellipses with the sun at the focus.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>
+            Astronomy 100
+        </Category>
+        <Difficulty>
+            3297
+        </Difficulty>
+        <heading>
+            J. Kepler (1571 - 1630)
+        </heading>
+        <Question>
+            What is Kepler's 2nd law (K2) of planetary motion?
+        </Question>
+        <Answer>
+            Equal area is swept out in equal time by a line connecting a planet to the sun.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>
+            Astronomy 100
+        </Category>
+        <Difficulty>
+            3297
+        </Difficulty>
+        <heading>
+            J. Kepler (1571 - 1630)
+        </heading>
+        <Question>
+            By Kepler's 2nd law of planetary motion (K2), where would planet speed be fastest, closer or further from the sun?
+        </Question>
+        <Answer>
+            Planet speed would be fastest when it is closer to the sun and slowest in the oppositie case.
+        </Answer>
+    </Item>
+    <Item>
+        <Category>
+            Astronomy 100
+        </Category>
+        <Difficulty>
+            3297
+        </Difficulty>
+        <heading>
+            J. Kepler (1571 - 1630)
+        </heading>
+        <Question>
+            By Kepler's 2nd law of planetary motion (K2), where would planets slow down?
+        </Question>
+        <Answer>
+            Planets would slow down as they get further away from the sun.
+        </Answer>
+    </Item>
+
+    <!--MUSIC 112 QUIZZES-->
+    <Item>
+        <Category>Music 112</Category>
+        <Difficulty>3279</Difficulty>
+        <Question>Melody</Question>
+        <Answer>The main tune, or "theme" in music</Answer>
+    </Item>
+    <Item>
+        <Category>Music 112</Category>
+        <Difficulty>3279</Difficulty>
+        <Question>Rhythm</Question>
+        <Answer>The movement of music in time</Answer>
+    </Item>
+    <Item>
+        <Category>Music 112</Category>
+        <Difficulty>3279</Difficulty>
+        <Question>Harmony</Question>
+        <Answer>Simultaneous combination of sounds</Answer>
+    </Item>
+</Quiz>

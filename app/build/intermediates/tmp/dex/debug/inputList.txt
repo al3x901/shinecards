@@ -1,0 +1,5 @@
+C:\Users\al3x901\Desktop\shinecards\app\build\intermediates\classes\debug
+C:\Users\al3x901\Desktop\shinecards\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-1c1e80ae1256ccaeac325f29d6b38ee6719b960f.jar
+C:\Users\al3x901\Desktop\shinecards\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-67e032cc5cfc16b578652f62b41a96a8066716f3.jar
+C:\Users\al3x901\Desktop\shinecards\app\build\intermediates\pre-dexed\debug\classes-4788915d9438d9196348c0e6c01a5a18abfa0ad3.jar
+C:\Users\al3x901\Desktop\shinecards\app\build\intermediates\pre-dexed\debug\classes-5833607df3a8612d6ae9f99df278f0f03956e3bd.jar
